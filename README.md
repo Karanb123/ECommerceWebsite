@@ -7,13 +7,13 @@ IDE: VS-Code
 
 Industry : Lifestyle
 
-Project Title : E-Commerce Site
+Project Title : E-Commerce Website
 
-Problem Statement/Opportunity : This projects aims to develop Ecommerce Site for customers with the goal so that it is very easy to shop your loved things from a extensive number of ecommerce sites available onthe web.You simply require a PC or a laptop and one important payment sending option to shop online.To get to this online shopping system all the customers will need to have a email and passwordto login and proceed your shopping. The login credentials for an ecommerce system areunder high security and nobody will have the capacity to crack it easily. Upon successful loginthe customers can purchase a wide range of things such as mobiles, books, apparel, covid-19essentials, student necessities, tools, etc. can be dispatched using ecommerce system. 
+Problem Statement/Opportunity : An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along with FAQ Bot deployed on Website for customers help.
 
 
-Project Description : This project belongs to make an application to purchase items in an existing shop.To make the application more user friendly and provide additional features and facilities to the student and scholars. In order to build such an application complete web support need to be provided. A complete and efficient web application which can provide the online shopping experience is the basic objective of the project.This system can be implemented to any shop in the locality or to multinational branded shops having retail outlet chains.The system recommends a facility to accept the orders 24*7 and a home delivery system which can make customers happy.If shops are providing an online portal where their customers can enjoy easy shopping from anywhere, the shops won’t be losing any more customers to the trending online shops such as flipkart or ebay.
+Project Description :Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ Bot for a business company with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype an e-commerce site is to sell goods online with solving problems of customer speedily via FAQ Bot . This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
 
-Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
+Primary Azure Technology : Azure Bot Service, Azure Databricks, Health Bot,
 
 Other Azure Technologies : App Service
